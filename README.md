@@ -17,6 +17,7 @@ https://wrapbootstrap.com/theme/tshop-responsive-e-commerce-template-WB002S263
 Информация
 -------------------
 
+Про подключение и использование этого шаблона читайте тут:
 http://skeeks.com/blog/programming/211-kak-podklyuchit-shablon-k-proektu
 
 
