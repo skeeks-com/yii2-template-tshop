@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="assets/ico/favicon.png">
+    <title>TSHOP - Bootstrap E-Commerce Parallax Theme</title>
+    <!-- Bootstrap core CSS -->
+    <link href="assets/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. -->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- include pace script for automatic web page progress bar  -->
+
+    <script>
+        paceOptions = {
+            elements: true
+        };
+    </script>
+    <script src="assets/js/pace.min.js"></script>
+
+    <style>
+
+
+        .all-page-link ul li {
+            border-bottom: 1px solid #ededed;
+            margin-bottom: 5px;
+            padding-bottom: 5px;
+        }
+
+        .ProductDetailsList ul li a {
+            display: block;
+            transition: all 0.2s ease 0s;
+            font-size: 12px;
+            overflow: visible;
+            text-overflow: inherit;
+            white-space: inherit;
+        }
+
+    </style>
+</head>
+
+<body>
+
+
+
+<div class="container-fluid">
+    <div class="all-page-link">
+        <h3 class="promo-1 no-margin hidden-xs">70 + HTML PAGES  </h3>
+
+        <h3 class="promo-1sub hidden-xs"> Complete Parallax E-Commerce Boostrap Template, Responsive
+            on any Device, 10+ color Theme + Parallax Effect </h3>
+        <div class=" ProductDetailsList">
+
+            <ul class="col-lg-2  col-sm-4 col-md-3 unstyled">
+                <li class="no-border">
+                    <p><strong> Home Pages </strong></p>
+                </li>
+                <li><a href="index.html"> Home Version 1 </a></li>
+                <li><a href="index2.html"> Home Version 2 </a></li>
+                <li><a href="index3.html"> Home Version 3 (BOXES) </a></li>
+                <li><a href="index4.html"> Home Version 4 (LOOK 2)</a></li>
+                <li><a href="index5.html"> Home Version 5 (LOOK 3)</a></li>
+                <li><a href="index6.html"> Home Version 6 (STORY)</a></li>
+                <li><a href="index-v-7.html"> Home Version 7 (Flat) <span class="label label-success">new</span></a>  </li>
+                <li><a href="index-v-7.1.html"> Home Version 7.1 <br> (Header variations 1) <span class="label label-success">new</span></a>  </li>
+                <li><a href="index-v-7.2.html"> Home Version 7.2<br>(Header variations 2)  <span class="label label-success">new</span></a>  </li>
+                <li><a href="index-v-7.3.html"> Home Version 7.3<br> (Header variations 3)  <span class="label label-success">new</span></a>  </li>
+                <li><a href="index-v-7.4.html"> Home Version 7.4<br> (Sidebar Menu || Header variations 4)  <span class="label label-success">new</span></a>  </li>
+                <li><a href="index-v-7.5.html"> Home Version 7.5<br> (TSHOP Menu || Header variations 4) <span class="label label-success">new</span></a>  </li>
+                <li><a href="index-v-7.6.html"> Home Version 7.6 <br>(   OUR FAVORITE PRODUCTS - carousel slider ) <span class="label label-success">new</span></a>  </li>
+
+                <li><a href="index-header2.html"> Header Version 2 </a></li>
+                <li><a href="index-header3.html"> Header Version 3 </a></li>
+                <li><a href="index-header5-full-width-submenu.html"> Header Version 4 <br> Full Width Megamenu </a></li>
+                <li><a href="sidebar-shopping-cart.html">Sidebar Shopping cart <span class="label label-success">new</span></a></li>
+            </ul>
+
+            <ul class="col-lg-2  col-sm-4 col-md-3 unstyled">
+                <li class="no-border">
+                    <p><strong> Featured Pages </strong></p>
+                </li>
+                <li><a href="category.html"> Category </a></li>
+                <li><a href="category2.html"> Category Style 2 [Parallax] </a></li>
+                <li><a href="sub-category.html"> Sub Category </a></li>
+                <li><a href="category-list.html"> Category List View </a></li>
+                <li><a href="category-tree-menu.html"> Category Tree Menu <span class="label label-success">new</span></a></li>
+                <li><a href="category-tree-menu-open.html"> Keep Tree Menu open to the page (for sub category)  <span class="label label-success">new</span></a></li>
+                <li><a href="category-collapse-open-first-one.html"> Category Collapse || Open first one </a></li>
+                <li><a href="category-product-hover.html"> Category [Product Hover] </a></li>
+                <li><a href="category-product-slide.html"> Category [Product Slide] </a></li>
+
+                <li><a href="cart.html"> Cart </a></li>
+                <li><a href="about-us-3.html"> About Us V3 <span class="label label-success">NEW</span> </a></li>
+                <li><a href="about-us-2.html"> About Us V2 </a></li>
+                <li><a href="about-us.html"> About Us V1 </a></li>
+
+                <li><a href="contact-us.html"> Contact us </a></li>
+                <li><a href="contact-us-2.html"> Contact us 2 (No Fixed Map) </a></li>
+                <li><a href="terms-conditions.html"> Terms &amp; Conditions </a></li>
+
+            </ul>
+
+            <ul class="col-lg-2  col-sm-4 col-md-3 unstyled">
+                <li class="no-border">
+                    <p><strong> Product Details </strong></p>
+                </li>
+                <li><a href="product-details.html"> Product Details v1 </a></li>
+                <li><a href="product-details-style2.html"> Product Details v 2 </a></li>
+                <li><a href="product-details-style3.html"> Product Details v 3 <br>(Custom Thumbnail
+                    Position)</a></li>
+                <li><a href="product-details-style4.html"> Product Details v 4<br> (with litebox)</a></li>
+
+
+                <li><a href="product-details-style5.html"> Product Details v 5 (Flat) <span class="label label-success">NEW</span> </a></li>
+                <li><a href="product-details-style5-1.html"> Product Details v 5.1 ( Boxes)<span class="label label-success">NEW</span> </a></li>
+                <li><a href="product-details-style5-2.html"> Product Details v 5.2  (Tabs) <span class="label label-success">NEW</span> </a></li>
+                <li><a href="product-details-style5-3.html"> Product Details v 5.3 (Thumb Slider) <span class="label label-success">NEW</span> </a></li>
+                <li><a href="product-details-style5-3-fadein.html"> Product Details v 5.3.1
+                    <small>(Fadein)</small> <span class="label label-success">NEW</span> </a></li>
+                <li><a href="product-details-style5-4.html"> Product Details v 5.4  <span class="label label-success">NEW</span> </a></li>
+                <li><a href="product-details-style5-4.1-popup-video.html"> Product Details v 5.4.1
+                    <small>(popup video)</small><span class="label label-success">NEW</span> </a></li>
+                <li><a href="product-details-style5-4.1-with-zoom.html"> Product Details v 5.4.1
+                    <small>(Zoom + litebox)</small> <span class="label label-success">NEW</span></a></li>
+
+            </ul>
+            <ul class="col-lg-2  col-sm-4 col-md-3 unstyled">
+                <li class="no-border">
+                    <p><strong> Checkout </strong></p>
+                </li>
+                <li><a href="checkout-0.html"> Checkout Before </a></li>
+                <li><a href="checkout-1.html"> checkout step 1 </a></li>
+                <li><a href="checkout-2.html"> checkout step 2 </a></li>
+                <li><a href="checkout-3.html"> checkout step 3 </a></li>
+                <li><a href="checkout-4.html"> checkout step 4 </a></li>
+                <li><a href="checkout-5.html"> checkout step 5 </a></li>
+                <li><a href="one-page-checkout.html"> One page checkout <span class="label label-success">NEW</span> </a></li>
+                <li><a href="thanks-for-order.html"> Thanks for order</a></li>
+            </ul>
+            <ul class="col-lg-2  col-sm-4 col-md-3 unstyled">
+                <li class="no-border">
+                    <p><strong> User Account </strong></p>
+                </li>
+                <li><a href="account-1.html"> Account Login </a></li>
+                <li><a href="account.html"> My Account </a></li>
+                <li><a href="my-address.html"> My Address </a></li>
+                <li><a href="user-information.html"> User information </a></li>
+                <li><a href="wishlist.html"> Wish List </a></li>
+                <li><a href="order-list.html"> Order list </a></li>
+                <li><a href="order-status.html"> Order Status </a></li>
+                <li><a href="forgot-password.html"> Forgot Password </a></li>
+            </ul>
+            <ul class="col-lg-2  col-sm-4 col-md-3 unstyled">
+                <li class="no-border">
+                    <p><strong> &nbsp; </strong></p>
+                </li>
+                <li><a href="blog.html"> Blog </a></li>
+                <li><a href="blog-details.html"> Blog Details </a></li>
+                <li><a href="jquery-validation-login-modal.html"> Jquery Validation Login Modal</a></li>
+                <li><a href="single-product-modal.html"> Single Product Details Modal</a></li>
+                <li><a href="single-subscribe-modal.html"> Single Subscribe Modal</a></li>
+                <li><a href="error-page.html"> Error Page </a></li>
+                <li><a href="blank-page.html"> Blank Page </a></li>
+                <li><a href="form.html"> Basic Form Element </a></li>
+            </ul>
+        </div>
+
+
+    </div>
+</div>
+
+
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js">
+</script>
+<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $("a").attr("target", "_blank");
+    });
+
+</script>
+
+</body>
+</html>

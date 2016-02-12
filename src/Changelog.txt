@@ -1,0 +1,150 @@
+**
+
+##  New Release: Version 1.5 ##
+
+**
+
+
+TSHOP is a modern responsive HTML5 CSS3 ecommerce website template made with Bootstrap v3.3.5 Compatible with all modern browsers and usable with any device.
+
+## Features##
+
+ -  Fully Responsive 
+ -  Bootstrap v3.3.5
+ -  Valid HTML5 Markup 
+ -  10+ Colors Schemes and easy to set with skin.less
+ -  60+ HTML Pages 
+ -  5+ different slider variations
+ -  3 different header variations
+ -  5-step checkout Page
+ -  One Page checkout 
+ -  5 types of product details variations with lots of option. 
+ -  Product zoom + Litebox + Ajax Product Modal.
+ -  Customs design jQuery cycle & Swiper Slider.
+ -  3 Type of About page
+ -  2 Type of Category page
+ -  Parallax Story Page
+ -  Blogs
+ -  Contact with Google Map
+ -  CSS3 Animations
+ -  Detailed Documentation
+ -  Cross browser 
+ -  2000+ SATISFIED CUSTOMERS
+ -  Available support
+ -  Free lifetime updates
+ -  and more...
+
+
+## Changelog:##
+
+
+Version 1.5
+
+1. Updated Bootstrap v3.3.5
+2. Updated Font Awesome 4.4.0
+3. Updated jQuery Swiper 3.1.2
+3. Improved Typography, UI Design and HTML Markup. 
+4. 10+ New Pages inclide New Home Page and Product Details.
+5. Changes Product Modal to Remote Ajax modal.
+6. Replace jquery minimalect with select2.
+7. Replace jquery ion-checkRadio with icheck.min.js
+8. Important bugs fixed -
+	- Updated style.css, Script.js
+	- Fixed - Bootstrap modal-lg not working
+	- Footer fixed Positioning in Mobile Browsers 
+	- category-list.html fixed javacript bug for Thumbnail and Title not clickable. 
+	- improved Javascript and fixed bugs for script.js
+9.  Customs jQuery Tree Menu.
+10. Updated Documentation
+11. And More....
+
+
+
+Version 1.4
+
+1. Bootstrap 3.3.4
+2. Font Awesome 4.3.0
+3. jQuery upgraded to 1.10.1
+4. 6+ New Pages - 
+	index6.html
+	category2.html
+	category-product-hover.html
+	category-product-slide.html
+	blog.html
+	blog-details.html
+	order-status.html
+	product-details-style4.html
+	thanks-for-order.html
+	jquery-validation-login-modal.html
+
+
+5. Added hover and slider effect to the product thumbnails image.
+6. Added new jQuery Image Zoom Plugins with Popup responsive lightbox.
+6. Added new parallax story home page.
+6. Added new parallax category page with filter ON/OFF option.
+6. Added product rating plugins with review modal on product details page. 
+7. Added new Blog and Blog post pages.
+8. Added new order-status and thanks for order page.
+9. Bugs fixed -
+	- index4 & index5 scroll issue on device 1024px
+	- Fixed - Bootstrap modal-lg not working
+	- Footer fixed Positioning in Mobile Browsers 
+	- category-list.html fixed javacript bug for Thumbnail and Title not clickable. 
+	- improved Javascript and fixed bugs for home.js & script.js
+
+10. Updated Documentation
+
+
+Version 1.2
+
+1. Bootstrap 3.2.0
+2. Awesome 4.1.0
+3. Added 3 New Home Page Version
+4. Added Category Product List View Page
+5. Added Add to Wish list Button in products
+6. Added Custom Thumbnails functionality for Product Details Page
+7. Fixed bug for category Price range Input field overflow issue.
+8. Updated Typography, Buttons and Documentation
+
+
+----------
+
+
+Version 1.1
+
+ - Fixed bug # scrolling issue in Chrome and Safari.
+ - Updated style.css and script.js
+
+## Sources and Credits ##
+
+ -  Google Fonts - https://www.google.com/fonts
+ -  jQuery Cycle Plugin - http://jquery.malsup.com/cycle/
+ -  Swiper  - http://www.idangero.us/sliders/swiper/
+ -  jQuery Easing - http://gsgd.co.uk/sandbox/jquery/easing/
+ -  jQuery Mousewheel - https://github.com/brandonaaron/jquery-mousewheel
+ -  jQuery custom content scroller  - http://manos.malihu.gr/jquery-custom-content-scroller/
+ -  Owl Carousel - http://www.owlgraphic.com/owlcarousel/
+ -  jQuery Parallax - http://www.ianlunn.co.uk/plugins/jquery-parallax/
+ -  Smoothproducts - https://github.com/kthornbloom/Smoothproducts
+ -  Pace Loader - http://github.hubspot.com/pace/docs/welcome/
+ -  Ion.CheckRadio - http://ionden.com/a/plugins/ion.checkRadio/en.html
+ -  Minimalect -  https://github.com/groenroos/minimalect
+ -  Bootstrap TouchSpin - http://www.virtuosoft.eu/code/bootstrap-touchspin/
+ -  FooTable- http://fooplugins.com/
+ -  Animate.css - http://daneden.github.io/animate.css/
+ -  Magnific Popup -  http://dimsemenov.com/plugins/magnific-popup/
+ -  Bootstrap Star Rating - http://plugins.krajee.com/star-rating
+ -  Bootstrap Star Rating - http://plugins.krajee.com/star-rating
+ -  WOW.js - http://mynameismatthieu.com/WOW/
+ -  skrollr - http://prinzhorn.github.io/skrollr/
+ -  jQuery Zoom- http://www.jacklmoore.com/zoom/
+ -  Font Awesome - http://fortawesome.github.io/Font-Awesome/
+ -  Select2 - The jQuery replacement for select boxes
+ -  iCheck - super customized checkboxes and radio buttons 
+ -  intense images 
+ -  Images from - http://www.freegreatpicture.com , http://www.imcreator.com/, http://www.freedigitalphotos.net , http://zcool.com.cn, picjumbo.com
+
+  
+
+> The sample images viewed in the live preview are for demo purposes
+> only and not included with your purchase.
